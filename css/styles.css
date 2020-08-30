@@ -46,6 +46,10 @@ body {
 
 /* ======================================== ABOUT ===============================================*/
 
+.abt-con {
+    text-align: center;
+}
+
 .about-h1 {
     margin: 30px 0;
     font-family: 'Lexend Peta', sans-serif;
