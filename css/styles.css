@@ -70,6 +70,12 @@ body,html {
 
 /* ======================================== SKILLS ===============================================*/
 
+.skills-heading {
+    font-family: 'Lexend Peta', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
 .skills-col {
     text-align: center;
     margin-top: 50px;
@@ -141,7 +147,8 @@ ul {
 
 .footer-a {
     color: #EAF6F6;
-    margin: 10px 20px;
+    margin: 20px 20px;
+    padding: 20px 20px;
     text-decoration: none;
 }
 
@@ -161,7 +168,9 @@ i:hover {
 
 .copyright {
     color: #fff;
-    margin: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 0;
+    margin-top: 30px;
 }
 
 
@@ -201,6 +210,8 @@ i:hover {
     background-color: #66BFBF;
     text-align: center;
     width: 100%;
+    padding: auto;
+    margin: auto;
 }
 
 /* ============================================================================================ */
