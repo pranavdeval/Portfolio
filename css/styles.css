@@ -1,0 +1,212 @@
+body {
+    background-color: #fff;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+/* =========================================== NAVBAR ========================================= */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* ============================================================================================ */
+
+/* ======================================== TITLE ===============================================*/
+.intro {
+    margin: 130px auto;
+}
+
+.pranav-img {
+    border-radius: 100%;
+    width: 40%;
+    position: absolute;
+    top: 30%;
+    right: 30%;
+}
+
+.title-h1 {
+    font-size: 3.5rem;
+    font-family: 'Pacifico', cursive;
+}
+
+/* ==============================================================================================*/
+
+/* ======================================== ABOUT ===============================================*/
+
+.about-h1 {
+    margin: 30px 0;
+    font-family: 'Lexend Peta', sans-serif;
+    
+}
+
+.about-text {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin: 30px auto;
+}
+
+/* ==============================================================================================*/
+
+/* ======================================== SKILLS ===============================================*/
+
+.skills-col {
+    text-align: center;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.table-img {
+    margin: 50px auto 0;
+    width: 100%;
+    height: auto;
+}
+
+.skill-list {
+    text-align: left;
+    margin: 20px auto;
+    font-weight: bold;
+    padding: 15px;
+}
+ul {
+    list-style-position: inside;
+}
+
+
+/* ==============================================================================================*/
+
+/* ======================================== PROJECTS =============================================*/
+
+.projects-h1 {
+    margin-top: 30px;
+    font-family: 'Lexend Peta', sans-serif;
+    color: #66BFBF;
+}
+
+.p1 {
+    text-align: left;
+    padding: 50px 50px 50px 100px;
+    width: 100%;
+}
+
+.p2 {
+    text-align: left;
+    width: 100%;
+    padding: 50px 50px 50px 100px;
+}
+
+.p3 {
+    text-align: left;
+    width: 100%;
+    padding: 50px 50px 50px 100px;
+}
+
+.p-heading {
+    color: #11999E;
+    font-size: 2rem;
+}
+
+.vline {
+    border-right: 1px solid #f3b6f6;
+}
+
+/* ==============================================================================================*/
+
+/* ======================================== FOOTER =============================================*/
+
+.fab {
+    margin: 20px 30px;
+    color: #fff;;
+}
+
+.footer-a {
+    color: #EAF6F6;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-heading {
+    color: #fff;
+    padding-top: 40px;
+    font-family: 'Lexend Peta', sans-serif;
+}
+
+a:hover {
+    color: #11999E;
+}
+
+i:hover {
+    color: #11999E;
+}
+
+.copyright {
+    color: #fff;
+    margin: 10px;
+}
+
+
+/* ==============================================================================================*/
+
+
+
+/* ======================================= SECTIONS ============================================= */
+
+#home {
+    text-align: center;
+    height: 850px;
+    color: #fff;
+}
+
+#about {
+    background-color: #fff;
+    text-align: center;
+    margin: 100px auto;
+}
+
+#skills {
+    text-align: center;
+}
+
+#projects {
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 50px;
+}
+
+#footer {
+    background-color: #66BFBF;
+    text-align: center;
+    height: 300px;
+}
+
+/* ============================================================================================ */
+
+.parallax {
+    background-image: url('../images/stars.jpg');
+  
+    
+    height: 100%; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-2 {
+      background-color: #d43a3a;
+  }
+
+
+
