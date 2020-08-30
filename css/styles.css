@@ -1,5 +1,6 @@
 body {
     background-color: #fff;
+    width: 100%;
 }
 
 .container-fluid {
@@ -166,28 +167,33 @@ i:hover {
     text-align: center;
     height: 850px;
     color: #fff;
+    width: 100%;
 }
 
 #about {
     background-color: #fff;
     text-align: center;
     margin: 100px auto;
+    width: 100%;
 }
 
 #skills {
     text-align: center;
+    width: 100%;
 }
 
 #projects {
     text-align: center;
     background-color: #fff;
     padding-bottom: 50px;
+    width: 100%;
 }
 
 #footer {
     background-color: #66BFBF;
     text-align: center;
     height: 300px;
+    width: 100%;
 }
 
 /* ============================================================================================ */
